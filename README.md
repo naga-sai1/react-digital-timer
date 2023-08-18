@@ -1,4 +1,4 @@
-## **_Website_**[https://saidigitimer.ccbp.tech/](https://saidigitimer.ccbp.tech/)
+## **_Website_**:[https://saidigitimer.ccbp.tech/](https://saidigitimer.ccbp.tech/)
 
 In this project, let's build a **Digital Timer App** by applying the concepts we have learned till now.
 
